@@ -5,6 +5,6 @@ Enterprise-grade MPC custody solution with threshold ECDSA signing.  Secure digi
 Security for crypto exchanges using threshold signatures.
 
 ## Contact
-Email: dewatube02@gmail.comcom
+Email: dewatube02@gmail.com
 
 License: MIT
